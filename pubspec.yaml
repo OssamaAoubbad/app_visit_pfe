@@ -1,0 +1,37 @@
+name: app_visit_pfe
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.15.4
+  equatable: ^2.0.5
+  firebase_auth: ^4.17.4
+  firebase_core: ^2.25.4
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  foundation: ^0.0.5
+  foundation_flutter: ^0.2.0
+  google_sign_in: ^6.2.1
+  json_annotation: ^4.8.1
+  table_calendar: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.1.4
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.jpg
+    - assets/google_logo.png
+    - assets/logo_google_with.jpg
+
+

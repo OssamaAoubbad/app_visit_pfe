@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801976923665",
+    "project_id": "app-visit-pfe",
+    "storage_bucket": "app-visit-pfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801976923665:android:2b6002c0c602bf54dba3b0",
+        "android_client_info": {
+          "package_name": "com.example.app_visit_pfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF41sR9ZncH6f42jJOWh2DZZUgGofouRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
